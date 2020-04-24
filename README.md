@@ -1,11 +1,11 @@
 # CppCourse
-C++ Course of Umberto Sorbo
+[Pensare in C++ Umberto Sorbo](http://www.umbertosorbo.it/pensare-in-c/)
 
 ## References
-http://www.umbertosorbo.it/pensare-in-c/
+
 
 http://github.com - automatic!
-[GitHub](http://github.com)
+[Marco](http://github.com)
 
 
 ## 
