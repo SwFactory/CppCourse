@@ -3,14 +3,14 @@
 
 ## Lezione 01
 Introduzione alle classi
-### HomeWork - Cruscotto ,indicatori
+> HomeWork - Cruscotto ,indicatori
 ## Lezione 02
 Classi,gerarchie e polimorfismo
-### Homework - Cruscotto, Indicatori e spie
+> Homework - Cruscotto, Indicatori e spie
 
 ## Lezione 03
 Gestione Stack,Heap e creazione array
-### Homework - Array e creare makefile
+> Homework - Array e creare makefile
 
 ## Lezione 04
 
