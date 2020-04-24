@@ -1,7 +1,18 @@
 # C++ Course
 [Pensare in C++ Umberto Sorbo](http://www.umbertosorbo.it/pensare-in-c/)
 
-## References
+## Lezione 01
+Introduzione alle classi
+
+## Lezione 02
+Classi,gerarchie e polimorfismo
+
+## Lezione 03
+Gestione Stack,Heap e creazione array
+
+
+## Lezione 04
+
 
 
 http://github.com - automatic!
