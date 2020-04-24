@@ -14,7 +14,14 @@ Gestione Stack,Heap e creazione array
 ## Lezione 04
 
 
+## Tabelle
+ 1. Acronimi
 
+|Abbreviazione | Descrizione |
+|---|---|
+| Ex  | Example  |
+|   |   | 
+|   |   | 
 http://github.com - automatic!
 [GitHub](http://github.com)
 
