@@ -15,13 +15,15 @@ Gestione Stack,Heap e creazione array
 
 
 ## Tabelle
- 1. Acronimi
+ ### 1. Acronimi
 
 |Abbreviazione | Descrizione |
 |---|---|
-| Ex  | Example  |
-|   |   | 
-|   |   | 
+| Ex  | Exercise  |
+| L0x  | Lesson x  | 
+|   |   |
+
+
 http://github.com - automatic!
 [GitHub](http://github.com)
 
