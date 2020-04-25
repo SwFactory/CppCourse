@@ -13,6 +13,7 @@ Classi,gerarchie e polimorfismo
 Gestione Stack,Heap e creazione array
 > Homework - Array e creare makefile
 > [Cmake Tutorial](https://www.youtube.com/watch?v=wl2Srog-j7I)
+> [Open Example](https://open.cdash.org/user.php)
 ## Lezione 04
 
 > Homework - 
