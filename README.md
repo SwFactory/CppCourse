@@ -15,7 +15,7 @@ Gestione Stack,Heap e creazione array
 
 > [Cmake Tutorial](https://www.youtube.com/watch?v=wl2Srog-j7I) 
 
-> [Cmake for dummies](https://www.youtube.com/watch?v=7W4Q-XLnMaA)
+> [Cmake for dummies](https://www.youtube.com/watch?v=7W4Q-XLnMaA) - [Cmake for dummies](https://github.com/PeterMitrano/CMake_for_Dummies_code)
 
 > [Open Example](https://open.cdash.org/user.php)
 ## Lezione 04
