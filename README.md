@@ -4,6 +4,7 @@
 ## Lezione 01
 Introduzione alle classi
 > HomeWork - Cruscotto ,indicatori
+
 ## Lezione 02
 Classi,gerarchie e polimorfismo
 > Homework - Cruscotto, Indicatori e spie
@@ -14,7 +15,11 @@ Gestione Stack,Heap e creazione array
 
 ## Lezione 04
 
+> Homework - 
 
+## Lezione 05
+
+> Homework - 
 ## Tabelle
  ### 1. Acronimi
 
