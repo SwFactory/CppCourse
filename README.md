@@ -42,6 +42,7 @@ http://github.com - automatic!
 # Libro
 [prova](http://www.umbertosorbo.it/pensare-in-c/)
 
+[Esercizi Svolti](https://github.com/djkovrik/EckelCpp)
 ## Capitolo 1
 
 ## Capitolo 2
