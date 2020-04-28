@@ -9,6 +9,6 @@ using namespace std;
 
 int main() {
 
-  cout << "Hello, World! My name is Marco and I am "
+  cout << "Hello, World! My name is Simone2 and I am "
        << 29 << " years old!" << endl;
 }
